@@ -1,0 +1,5 @@
+interviews.egg-info/
+.idea/
+*.pyc
+.pytest_cache/
+__python_cache__/
